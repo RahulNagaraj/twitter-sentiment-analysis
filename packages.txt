@@ -1,0 +1,13 @@
+click
+Flask
+itsdangerous
+Jinja2
+MarkupSafe
+nltk
+oauthlib
+requests
+requests-oauthlib
+six
+textblob
+tweepy
+Werkzeug
